@@ -1,0 +1,61 @@
+html,
+body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    background-color: #374560 !important;
+    color: #fff !important;
+    margin: 0;
+    padding: 0;
+}
+
+h3.txt {
+    margin-bottom: 0;
+}
+
+#main {
+    box-shadow: 5px 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#summary {
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    width: 100vh;
+}
+
+.tittle {
+    font-family: 'Raleway', sans-serif;
+    color: #b48890;
+}
+
+.subtittle {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    font-size: small;
+}
+
+.txt {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size: small;
+    cursor: pointer;
+}
+
+.skill {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-size:small;
+    color: rgb(184, 184, 184);
+}
+.base {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: small;
+}

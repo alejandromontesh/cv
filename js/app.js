@@ -14,7 +14,7 @@ mail.addEventListener('click', f => {
 });
 
 whatsapp.addEventListener('click', function() {
-  const phoneNumber = '6642569336';
+  const phoneNumber = '526642569336';
   const whatsappLink = `https://wa.me/${phoneNumber}`;
   
   window.open(whatsappLink, '_blank');
